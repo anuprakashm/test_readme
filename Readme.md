@@ -3,7 +3,7 @@
 ## Introduction
 DevOps Self Assist is a chatbot based solution to collect the data from users about their current DevOps pain points and propose a potential solution addressing their pain areas. The data collected from users will also be used for data analytics and build an NLP model to do the training on DevOps solution proposals.
 
-The prototype of the chatbot is embedded in the <a href="./DevOps_Assist_Prototype.html"><b>DevOps_Assist_Prototype.html</b></a> file.  Open the html file and click on the bottom right chat button.
+The prototype of the chatbot is embedded in the <a href="./DevOps_Assist_Prototype.html"><b>DevOps_Assist_Prototype.html</b></a> file.  To use it, open the html file and click on the bottom right chat button.
 
 ## Architecture
 <img src="./DOSA_Architecture.png" alt="DOSA Architecture"/>
