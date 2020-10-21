@@ -22,9 +22,9 @@ MongoDB database is used to dumb the data from users.  The database is hosted in
 
 ## Data Analytics and NLP model (Future roadmap)
 The data dumped in MongoDB will be used in analytics to:
-	* Understand various pain areas based on geography, business areas, tools etc. for decision taking assistance
-	* Categorize the customer sentiments for various tools and features for improvising our tools
-	* Build a more robust NLP model for solution proposal and addressing customer pain areas
+* Understand various pain areas based on geography, business areas, tools etc. for decision taking assistance
+* Categorize the customer sentiments for various tools and features for improvising our tools
+* Build a more robust NLP model for solution proposal and addressing customer pain areas
 
 ## Contributor List
 <b>[Madhu B A](mailto:madhu.b.a@in.ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b></br>
