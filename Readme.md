@@ -5,7 +5,7 @@
 
 
 ## Contributor List
-<b>[Madhu B A](mailto:madhu.b.a@in.ibm.com?subject=[GitHub] DOSA - DevOps Self Assist)</b><br/> 
-<b>[Anjali Abraham](mailto:anjaabr1@in.ibm.com?subject=[GitHub] DOSA - DevOps Self Assist)</b><br/> 
-<b>[Anuprakash Moothedath](mailto:anuprakash.moothedath@ibm.com?subject=[GitHub] DOSA - DevOps Self Assist)</b> 
+<b>[Madhu B A](mailto:madhu.b.a@in.ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b></br>
+<b>[Anjali Abraham](mailto:anjaabr1@in.ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b></br>
+<b>[Anuprakash Moothedath](mailto:anuprakash.moothedath@ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b> 
   
