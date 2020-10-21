@@ -15,7 +15,7 @@ The Chatbot is developed using IBM Watson Assistant service. The source code on 
 IBM Cloud function service is used to create the Rest API function to call the Database operation APIs to dump the customer data.  The source code for the IBM Cloud function is available in the folder <b>IBM_Cloud_Function</b>.  The source is written in NodeJS.
 
 ## IBM Cloud Foundry
-IBM Cloud Foundry service is used to deploy the Python-Flask application for Database operation Rest APIs. The source code and the endpoint details of the Python-Flask Rest APIs are available in the <b>IBM_Cloud_Foundry</b> folder. The APIs are for data operations on MongoDB database which is hosted in the MongoDB Atlas cloud.
+IBM Cloud Foundry service is used to host the Python-Flask application for Database operation Rest APIs. The source code and the endpoint details of the Python-Flask Rest APIs are available in the <b>IBM_Cloud_Foundry</b> folder. The APIs are for data operations on MongoDB database which is hosted in the MongoDB Atlas cloud.
 
 ## MongoDB Database
 MongoDB database is used to dumb the data from users.  The database is hosted in the MongoDB Atlas cloud.
