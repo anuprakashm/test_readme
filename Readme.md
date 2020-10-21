@@ -9,7 +9,7 @@ The prototype of the chatbot is embedded in the <a href="./DevOps_Assist_Prototy
 <img src="./DOSA_Architecture.png" alt="DOSA Architecture"/>
 
 ## IBM Watson Assistant
-The Chatbot is developed using IBM Watson Assistant service. The source code on the IBM Watson Assistant skill is available in <b>IBM_Watson_Assistant</b> folder. Currently we are using NLP from IBM Watson Assistant to classify the tools used.  This is a prototype and we are working adding more NLP to the chatbot.  The chatbot is having a webhook to a Rest API function.  The function will decide on which database API to be called to dumb the data based on the inputs from the user.
+The Chatbot is developed using IBM Watson Assistant service. The source code on the IBM Watson Assistant skill is available in <b>IBM_Watson_Assistant</b> folder. Currently we are using NLP from IBM Watson Assistant to classify the tools used.  This is a prototype and we are working adding more NLP to the chatbot.  The chatbot is having a webhook to a Rest API function.  The function will decide on which database operation API to be called, to dumb the data based on the inputs from the user.
 
 ## IBM Cloud functions
 IBM Cloud function service is used to create the Rest API function to call the Database operation APIs to dump the customer data.  The source code for the IBM Cloud function is available in the folder <b>IBM_Cloud_Function</b>.  The source is written in NodeJS.
