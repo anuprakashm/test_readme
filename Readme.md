@@ -1,6 +1,4 @@
-"# The-A-team" 
-
-# DevOps Self Assist (DOSA)
+# DevOps Self Assist (DOSA) from The-A-team 
 
 ## Introduction
 DevOps Self Assist is a chatbot based solution to collect the data from users about their current DevOps pain points and propose a potential solution addressing their pain areas. The data collected from users will also be used for data analytics and build an NLP model to do the training on DevOps solution proposals.
@@ -34,3 +32,4 @@ The data dumped in MongoDB will be used in analytics to:
 <b>[Madhu B A](mailto:madhu.b.a@in.ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b></br>
 <b>[Anjali Abraham](mailto:anjaabr1@in.ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b></br>
 <b>[Anuprakash Moothedath](mailto:anuprakash.moothedath@ibm.com?subject=[GitHub]%20DOSA%20-%20DevOps%20Self%20Assist)</b> 
+
