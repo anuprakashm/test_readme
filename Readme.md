@@ -21,7 +21,7 @@ IBM Cloud Foundry service is used to host the Python-Flask application for Datab
 MongoDB database is used to dumb the data from users.  The database is hosted in the MongoDB Atlas cloud.
 
 ## Data Analytics and NLP model (Future roadmap)
-A sample analytics for demo is done using Python-Flask application using matplotlib package.  The sample application is deployed in IBM Cloud Foundry.  It can be accessed using a REST API. The source code and REST API end-point of the application is available in the <a href="./04-IBM _Cloud_Foundry_Sample_Analytics"><b>04-IBM_Cloud_Foundry_Sample_Analytics</b></a> folder.
+A sample analytics for demo is done using Python-Flask application using matplotlib package.  The sample application is deployed in IBM Cloud Foundry.  It can be accessed using a REST API. The source code and REST API end-point of the application is available in the <a href="./04-IBM_Cloud_Foundry_Sample_Analytics"><b>04-IBM_Cloud_Foundry_Sample_Analytics</b></a> folder.
 
 The data dumped in MongoDB will be used in analytics to:
 * Understand various pain areas based on geography, business areas, tools etc. for decision taking assistance
